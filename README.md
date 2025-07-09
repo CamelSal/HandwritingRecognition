@@ -15,11 +15,3 @@ Handwriting recognition has broad implications across multiple sectors. In educa
 
 This project proposes a deep learning-based approach to recognizing handwritten text using a Convolutional Recurrent Neural Network (CRNN) with CTC (Connectionist Temporal Classification) loss. The solution involves preprocessing handwritten word images, training a model to map image features to character sequences, and decoding the output into readable text. The pipeline is designed to generalize across different handwriting styles, providing a scalable and accurate solution for digitizing handwritten content.
 
-## Project Composition
-
-## Dataset
-
-## Project Organization
-
-
-## Findings & Conclusion
